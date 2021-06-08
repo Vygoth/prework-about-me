@@ -1,38 +1,20 @@
-## Live Deploy
+##Live Deploy
+https://vygoth.github.io/prework-about-me/
 
-# ReadmeGenerator
+# Prework-About-Me
 
 # Contact
 Vygoth
 JeremyJoanet@Protonmail.com
 
 ## Description
-This Application allows users to create README files on the fly!
+One of my first activities with Github, created as a prerequisite for Northwestern Universities full-stack development course.
 
 ## Table of Contents
 - [Usage](#Usage)
-- [Installation](#Dependancies)
-- [Testing](#Testing)
-- [Credits](#Credits)
-- [License](#License)
-- [Contributing](#Contributing)
-- [License Information](#LicenseInfo)
-- [Screenshot](#Screenshot)
 
 ## Usage
-To begin this application, please type node index.js with node installed.
-
-## Dependancies
-npm i
-
-## Testing
-N/A
-
-## Credits
-Zach Duty, Matt Reisdorf
-
-## Contributing
-N/A
+This application's live deploy is displayed at the top of this Readme.
 
 ## Screenshot
-![Screenshot](./assets/img/screenshot.png)
+![Screenshot](./img/PreworkScreenshot.PNG)
